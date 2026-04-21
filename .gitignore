@@ -1,0 +1,31 @@
+# Virtual Environment
+venv/
+env/
+.venv/
+
+# Environment Variables / API Keys (CRITICAL)
+.env
+*.env
+.env.local
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDE & OS Files
+.vscode/
+.idea/
+.DS_Store
+
+# Logs
+*.log
+
+# Databases & Vector Stores (ChromaDB)
+chroma_db/
+*_kb/
