@@ -2,7 +2,7 @@
 
 > **🏆 CAPSTONE COMPLETION HIGHLIGHT**
 
-> This Repository has been made as the final Capstone Project for the **Agentic AI** Course offered by **KIIT University** as a part of **Industrial Elective**.
+This Repository has been made as the final Capstone Project for the **Agentic AI** Course offered by **KIIT University** as a part of **Industrial Elective**.
 **Submitted by: Akshat Gupta**
 **Roll No. : 23051325**
 **Branch : CSE**
