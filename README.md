@@ -1,7 +1,12 @@
 # ⚖️ Legal Document Agentic Assistant
 
 > **🏆 CAPSTONE COMPLETION HIGHLIGHT**
-> 
+
+> This Repository has been made as the final Capstone Project for the **Agentic AI** Course offered by **KIIT University** as a part of **Industrial Elective**.
+**Submitted by: Akshat Gupta**
+**Roll No. : 23051325**
+**Branch : CSE**
+
 > I have successfully built this Capstone project covering **ALL 6 Mandatory Agentic Capabilities**:
 > - ✅ **LangGraph StateGraph** (Complex 7-node flow)
 > - ✅ **ChromaDB RAG** (10+ Domain Curated Documents)
@@ -104,3 +109,7 @@ When the UI launches, test these edge cases to see the internal agent logic func
 - **Out of Scope Test**: *“Who won the last super bowl?”*
 - **Tool Trigger**: *“What is the current time?”* 
 - **Hallucination Red-Team**: *“Doesn't Force Majeure cover financial insolvency?”* *(Should forcefully reject based on the context constraints).*
+
+**Submitted by: Akshat Gupta**
+**Roll No. : 23051325**
+**Branch : CSE**
